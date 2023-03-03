@@ -1,0 +1,16 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "Node js API",
+  "main": "app.js",
+  "scripts": {
+    "dev": "app.js"
+  },
+  "author": "Uday kiran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.21"
+  }
+}
