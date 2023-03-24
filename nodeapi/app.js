@@ -19,7 +19,7 @@ app.use('/', postRoutes);
 
 
 
-const port=2000;
+const port=5000;
 
 app.listen(port, (req, res) => {
     console.log(`Uday, NodeJS listening on:${port}`);
